@@ -1,0 +1,134 @@
+/* Tags */
+div {
+  background-color: #EEEEEE;
+}
+
+body {
+  background-color: #EEEEEE;
+  font-family: 'Roboto';
+  line-height: normal;
+  margin :0px
+}
+
+h1 {
+  font-family: 'Roboto';
+  color: #00ADB5;
+  margin-top: 30px;
+  font-size: 70px;
+}
+
+h2 {
+  font-family: 'Roboto';
+  color: #00ADB5;
+  font-size: medium;
+  margin-top: 20px;
+  font-size: 30px;
+}
+
+h3 {
+  font-family: 'Roboto';
+  color: #222831;
+  font-size: medium;
+  margin-top: 0px;
+}
+
+a {
+  font-family: 'Roboto';
+  text-decoration: none;
+  font-size: medium;
+  color: #393E46;
+}
+
+a:hover{
+  text-decoration: none;
+  color: #00ADB5;
+}
+
+hr {
+  border-color: #00ADB5;
+  height: 0px;
+  width: 60%;
+  border-style: dotted none none;
+  border-width: 2px;
+  opacity: 15%;
+
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 900px;
+  top: 30px;
+}
+
+p {
+  font-family: 'Roboto' !important;
+  color: #393E46
+
+}
+/* ID */
+
+
+
+/* class */
+
+.container {
+  width: 90%;
+  margin: auto;
+  align-items: center;
+
+}
+
+.top-container {
+  background-color: #EEEEEE;
+  align-items: center;
+  width: 90%;
+  margin: auto;
+
+}
+
+.pic {
+  padding: 50px;
+  display: inline-block;
+  align-items: center;
+
+}
+
+
+
+/*
+
+.header {
+  width: 100%;
+  padding: 40px;
+  margin: 20px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.card-white {
+  background: white;
+  padding: 30px;
+  border: 1px solid lightgrey;
+}
+*/
+
+/* favicon.cc, import image, download ico format drag to folder link in html
+link rel="icon" href="favicon.ico" */
+
+/*
+block: pargrahs, headers, div, lists, forms
+inline: span, img, a
+inline-block:
+none - get rid of the elemnt
+*/
+
+/*
+position: static
+relative, will not affect the others. where should have been
+absolute margin to parent element
+fixed
+*/
